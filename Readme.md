@@ -1,9 +1,9 @@
 <html>
 	<head>
-		<meta name="twitter:card" content="summary"/>
-		<meta name="twitter:title" content="Test!"/>
-		<meta name="twitter:description" content="This is a test, duh"/>
-		<meta name="twitter:image" content="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=234501933315844"/>
+		<meta name="og:card" content="summary"/>
+		<meta name="og:title" content="Test!"/>
+		<meta name="og:description" content="This is a test, duh"/>
+		<meta name="og:image" content="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=234501933315844"/>
 	</head>
 	<body>
 		HI
